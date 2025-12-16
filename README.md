@@ -1,16 +1,45 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Jeswath S</h1>
 
-<!--
-**jeswathhub/jeswathhub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"><b>AI Developer | Machine Learning | Computer Vision</b></p>
 
-Here are some ideas to get you started:
+<p align="center">Building intelligent, data-driven solutions for real-world & social-impact problems.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+
+
+
+## 👤 About Me
+🎓 **B.Tech AI & Data Science (2023–2027)**
+Velammal College of Engineering and Technology
+**CGPA:** 7.82
+
+
+Passionate about **computer vision, real-time analysis, and AI-based alert systems** with a focus on **public safety & crowd management**.
+
+
+
+## 🧠 Skills
+
+* **Python**, NumPy, Pandas, Matplotlib
+* **ML | DL | Computer Vision | YOLOv8**
+* OpenCV, VS Code, Jupyter Notebook
+
+
+## 📂 Projects
+
+* 👥 **Crowd Analysis System** – Real-time detection & monitoring
+* 🚨 **AI Alert System** – Threshold-based alerts
+* 📊 **Data Visualization Dashboards**
+
+
+
+## 📫 Connect
+
+* **GitHub:** [https://github.com/jeswathhub](https://github.com/jeswathhub)
+* **LinkedIn:** [https://www.linkedin.com/in/jeswath-80162b307](https://www.linkedin.com/in/jeswath-80162b307)
+* **Email:** [jeswathjeswath516@gmail.com](mailto:jeswathjeswath516@gmail.com)
+
+
+
+⭐ *Always learning, building, and improving in AI & Data Science.*
