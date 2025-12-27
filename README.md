@@ -2,7 +2,7 @@
 
 <p align="center"><b>AI Developer | Machine Learning | Computer Vision</b></p>
 
-<p align="center">Building intelligent, data-driven solutions for real-world & social-impact problems.</p>
+<p align="center">Building intelligent, data-driven solutions for real-world & social-impact problem.</p>
 
 ---
 
@@ -15,7 +15,7 @@ Velammal College of Engineering and Technology
 **CGPA:** 7.82
 
 
-Passionate about **computer vision, real-time analysis, and AI-based alert systems** with a focus on **public safety & crowd management**.
+Passionate about **computer vision, real-time analysis, and AI-based Model development **.
 
 
 
