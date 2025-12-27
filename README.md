@@ -15,7 +15,7 @@ Velammal College of Engineering and Technology
 **CGPA:** 7.82
 
 
-Passionate about **computer vision, real-time analysis, and AI-based Model development **.
+Passionate about computer vision, real-time analysis, and AI-based Model development.
 
 
 
