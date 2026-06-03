@@ -24,10 +24,7 @@ I'm a **B.Tech AI & Data Science student** at Velammal College of Engineering an
 - 🎓 Currently pursuing **B.Tech in Artificial Intelligence & Data Science** (CGPA: 7.83)
 - 🔬 Working on a **research paper** on AI-based Crowd Monitoring systems
 - 💼 Interned at **Edge Matrix Corporation** — deep learning model training & AI workflows
-- 🏆 2× **First Place winner** in technical & entrepreneurial competitions
 - 📍 Based in **Madurai, India**
-- 🌱 Currently deepening expertise in **Deep Learning architectures** and **NLP**
-- ⚡ Fun fact: I can relay mathematical problem-solving and pitch startup ideas in the same week!
 
 ---
 
